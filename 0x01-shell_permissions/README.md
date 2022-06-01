@@ -1,0 +1,1 @@
+0-iam_betty: script that switch the current user to the user betty
